@@ -27,9 +27,7 @@ o
 ![Ardublock](http://blog.ardublock.com/wp-content/uploads/2014/07/untitled6.jpg)
 
 
-Para terminar hablaremos también de los nuevos kit de electrónica imprimibles
-
-Para la electrónica también podemos usar bloques modulares al estilo de la programación y que podemos imprimir y montar nosotros mismos
+Para terminar hablaremos también de los nuevos kit de electrónica imprimibles:  bloques modulares al estilo de la programación y que podemos imprimir y montar nosotros mismos
 
 ![kit electronica](./images/KitElectrónica.jpg)
 
@@ -48,9 +46,9 @@ Escogeremos a algún asistente para que haga el montaje
 
 Utilizaremos un robot con piezas impresas que llevaremos desmontado.
 
-1. Montamos el robot
-
 ![robot](./images/Minirobot.jpg)
+
+1. Montamos el robot
 
 1. Añadimos la electrónica
 
