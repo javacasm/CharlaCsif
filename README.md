@@ -29,6 +29,10 @@ o
 
 Para terminar hablaremos también de los nuevos kit de electrónica imprimibles
 
+Para la electrónica también podemos usar bloques modulares al estilo de la programación y que podemos imprimir y montar nosotros mismos
+
+![kit electronica](./images/KitElectrónica.jpg)
+
 (Durante la ponencia una impresora 3D está imprimiendo alguna pieza. Dado que es mucho el tiempo que se tarda en imprimir, llevaré todo lo necesario impreso, pero se estará imprimiendo algún componente del kit de electrónica que se use y que termine rápido)
 
 
@@ -36,16 +40,26 @@ Para terminar hablaremos también de los nuevos kit de electrónica imprimibles
 
 Tendremos 2 actividades: robótica e Impresión 3D
 
-### Robótica
+Escogeremos a algún asistente para que haga el montaje
+
+### Robótica (50 minutos)
 
 Utilizaremos un robot con piezas impresas que llevaremos desmontado.
 
-La electrónica también son bloques modulares al estilo de la programación
-
 1. Montamos el robot
 
-### Impresión 3D en el aula
+![robot](./images/Minirobot.jpg)
+
+1. Añadimos la electrónica
+
+1. Programamos un comportamiento sencillo con Bitlboq
+
+### Impresión 3D en el aula (30 minutos)
 
 Montaremos unos poliedros con los vértices impresos y varillas
 
-![Tetraedro](./images/Tetradedro.jpg)
+Llevaremos más piezas impresas para mostrar las posibilidades
+
+![Tetraedro](./images/Tetraedro.jpg)
+
+![Icosaedro](./images/Icosaedro.jpg)
