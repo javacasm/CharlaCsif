@@ -33,6 +33,8 @@ Para la electrónica también podemos usar bloques modulares al estilo de la pro
 
 ![kit electronica](./images/KitElectrónica.jpg)
 
+Completaremos la ponencia citando algunas expeciencias interesantes de uso de la tecnología en el aula como las de [Diego García](https://unblogfantasticoenguevejar.blogspot.com.es/) y [Eusebio Córdoba](http://tercero.ceipsansebastian.net/)
+
 (Durante la ponencia una impresora 3D está imprimiendo alguna pieza. Dado que es mucho el tiempo que se tarda en imprimir, llevaré todo lo necesario impreso, pero se estará imprimiendo algún componente del kit de electrónica que se use y que termine rápido)
 
 
