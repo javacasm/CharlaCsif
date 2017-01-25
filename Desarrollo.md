@@ -35,3 +35,11 @@ En concreto:
 * Montaje y pruebas
 * Ciclo de iteración y mejora
 * Habrá problemas y tendrán que buscar soluciones
+
+# Problemas
+
+Uno de los problemas que se plantea cuando se quiere hacer robótica en el aula es que tiene el coste 
+por un lado un kit es sencillo de usar pero costoso.
+Por otro lado los componentes son baratos pero difíciles de usar
+ podemos involucrar distintos niveles con distintas capacidades y distintas dificultades
+
