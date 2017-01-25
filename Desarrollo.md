@@ -38,8 +38,17 @@ En concreto:
 
 # Problemas
 
-Uno de los problemas que se plantea cuando se quiere hacer robótica en el aula es que tiene el coste 
-por un lado un kit es sencillo de usar pero costoso.
-Por otro lado los componentes son baratos pero difíciles de usar
- podemos involucrar distintos niveles con distintas capacidades y distintas dificultades
+Uno de los problemas que se plantea cuando se quiere hacer robótica en el aula es que tiene el coste y que normalmente los centros no disponen de presupuesto para ello.
+En ese punto siempre aparece la disyuntiva de si usar un kit o los componentes
 
+Por un lado un kit es sencillo de usar pero costoso
+
+![kit](./images/Sensores.png)
+
+Por otro lado los componentes son baratos pero difíciles de usar
+
+![componentes](./images/Arduino_Breadboard_LCD_Trial_One.jpg)
+
+Una posible solución consiste en  involucrar a distintos niveles con distintas capacidades y dándoles tareas con distinto nivel de dificultad
+
+![KitElectrónica.jpg](./images/KitElectrónica.jpg)
