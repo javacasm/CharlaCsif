@@ -36,7 +36,9 @@ En concreto:
 * Ciclo de iteración y mejora
 * Habrá problemas y tendrán que buscar soluciones
 
-# Problemas
+# Problemas y sus soluciones
+
+## El coste
 
 Uno de los problemas que se plantea cuando se quiere hacer robótica en el aula es que tiene el coste y que normalmente los centros no disponen de presupuesto para ello.
 En ese punto siempre aparece la disyuntiva de si usar un kit o los componentes
@@ -52,3 +54,5 @@ Por otro lado los componentes son baratos pero difíciles de usar
 Una posible solución consiste en  involucrar a distintos niveles con distintas capacidades y dándoles tareas con distinto nivel de dificultad
 
 ![KitElectrónica.jpg](./images/KitElectrónica.jpg)
+
+Al construir el kit estamos aprendiendo electrónica, soldadura, impresión 3D, a leer esquemas,.... y estamos fabricando los componentes que pueden usar los más pequeños
