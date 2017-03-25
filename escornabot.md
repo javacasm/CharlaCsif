@@ -31,7 +31,7 @@ Con un poco de imaginación....
 
 Para montar un  laberinto
 
-![laberinto](https://escornabot.com/web/es/2015-03-09/laberinto-sin-limites-con-pajitas-y-pinzas-de-ropa)
+![laberinto](http://escornabot.com/web/sites/default/files/node_attachs/clothespin_straw.jpg)
 
 # Venga, va, me lo construyo
 
