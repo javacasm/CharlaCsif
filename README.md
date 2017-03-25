@@ -67,6 +67,47 @@
 
 ![enseñando](https://pbs.twimg.com/media/C7rL2NWXwAEWDS7.jpg)
 
-# 3D
+* * *
+## Herramientas para crear
+
+### Diseño 3D
+
+[BlockScad](https://www.blockscad3d.com/)
+
+![BlockScad](https://d2.alternativeto.net/dist/s/blockscad_212565_full.png?format=jpg&width=1200&height=1200&mode=crop&upscale=false)
+
+[Thinkercad](https://www.tinkercad.com)
+
+![diseño](https://github.com/javacasm/ClasesPrimariaTech/raw/master/images/mandoRobot_3D.png)
+* * *
+
+### Ejemplos del 3D en el aula
 
 [Juguetes](https://github.com/javacasm/Tecnologia-Educativa/blob/master/juguetes.md)
+
+* * *
+
+Ejemplos de arquitectura
+
+[Templetto](http://www.thingiverse.com/thing:968928)
+
+![capilla](http://thingiverse-production-new.s3.amazonaws.com/renders/c3/b5/ac/f0/3c/Pic_01_preview_featured.jpg)
+
+[Notre Dame](https://twitter.com/manureinosa/status/840472298331222016)
+
+[Hogwarts](http://www.thingiverse.com/thing:1369458/apps)
+
+![hogwarts](http://thingiverse-production-new.s3.amazonaws.com/renders/07/b3/fe/9b/f6/bebea283710a363a7080d849d7d9f468_preview_featured.JPG)
+* * *
+
+O programar robots, como
+
+[Bitbloq](http://bitbloq.bq.com)
+
+![Bitbloq](http://www.untipodigital.com/wp-content/uploads/2016/04/Bitbloq-V2_03.jpg)
+
+o
+
+[Ardublock](http://blog.ardublock.com)
+
+![Ardublock](http://blog.ardublock.com/wp-content/uploads/2014/07/untitled6.jpg)
