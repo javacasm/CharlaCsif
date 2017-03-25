@@ -5,11 +5,14 @@
 
 # Robótica e Impresión 3D en el aula de Infantil y Primaria
 
-## ¿Por qué hacer cosas?
+## ¿Por qué "hacer" cosas en el aula?
 
 ### José Antonio Vacas @javacasm
 
+## [https://swipe.to/4318gm](https://swipe.to/4318gm)
+
 ![CC](https://raw.githubusercontent.com/javacasm/ArduinoAvanzadoDE2017/master/images/Licencia_CC_peque.png)
+
 
 * * *
 
