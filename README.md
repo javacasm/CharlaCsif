@@ -1,65 +1,72 @@
-# Charla Csif
+# La ciencia se cuela en la escuela
+![logo](https://www.csif.es/sites/default/files/styles/contenido/public/field/image/imagen%20Jornadas%20La%20ciencia%20se%20cuela%20en%20la%20escuela.png?itok=F3zjla_3)
 
-La sesión constará de dos partes
+## 24-25 de Marzo, Granada
 
-* 2 horas: Primera parte programación (a cargo de Pedro Martínez Varo)
-* 2 horas: Robótica y Diseño e impresión 3D. Breve ponencia, y luego demostración práctica con la participación del público
+# Robótica e Impresión 3D en el aula de Infantil y Primaria
+
+## ¿Por qué hacer cosas?
+
+### José Antonio Vacas @javacasm
+
+![CC](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
+
+* * *
+
+## ¿Por qué hacer cosas?
+
+### Recordamos
+* el 10% de lo que leemos,
+* el 20% de lo que oímos
+* y el 90% de lo que construímos
+
+* * *
+
+## Hacer genera un tipo de **satisfacción muy particular**:
+
+### __"la sensación de estar teniendo un impacto directo sobre el mundo."__
+
+## La cultura del hacer les da la certeza de que se puede cambiar el mundo y las herramientas están ahí.
+
+* * *
+
+## Ellos viven en un mundo lleno de tecnología,  hagamos que aprendan a utilizarla
+
+## Enseñamos que pueden hacer que las cosas funcionen de acuerdo a como nosotros nos lo proponemos
+
+## De esta manera educamos para controlar la tecnología, no para consumirla
+
+* * *
+
+## Ellos viven en un mundo lleno de tecnología, de redes sociales, hagamos que aprendan a utilizarlas
+
+## Aprende de otros, viendo sus "tutoriales"
+
+## Por eso debemos compartir y liberar sus/nuestros logros, permitiendo que otros basándose en ellos lleguen aún más alto
+
+## No nos debe dar miedo que otros vean lo que hacemos si nos hemos esforzado en hacerle lo mejor que podemos.
+
+* * *
+
+## No se trata aprender a usar una impresora 3D o aprender hacer un programa
+
+## Se trata de aprender Matemáticas, Lengua, Inglés, Física, Informática, ingeniería, mecánica, química,....  pero utilizando las herramientas actuales.
+
+## Por eso decimos que los tres pilares serían el diseño 3D, la programación y la electrónica
+
+* * *
+
+## Podemos citar muchas experiencias interesantes de uso de la tecnología en el aula como las de [Diego García](https://unblogfantasticoenguevejar.blogspot.com.es/) y [Eusebio Córdoba](http://tercero.ceipsansebastian.net/)
+
+[Fco. G. Lorca de Güevejar](https://twitter.com/FGuevejar/status/844894944879935488)
+
+![silla](https://2.bp.blogspot.com/-jEDmHHTCny4/WLoGeFYyVxI/AAAAAAAABfQ/KXMtnDGJflYOGpoTP78cHX9SOTau1OcQgCLcB/s400/FullSizeRender.jpg)
 
 
-## Ponencia (30 minutos)
+[CEIP S. Sebastián](https://twitter.com/ceipsnsebastian/status/845212030013493248)
 
-Continuando con el uso de herramientas de bloques vamos a ver algunas herramientas Open-Source que nos permiten también usando bloques hacer diseños en 3D
+![enseñando](https://pbs.twimg.com/media/C7rL2NWXwAEWDS7.jpg)
 
-[BlockScad](https://www.blockscad3d.com/)
+# 3D
 
-![BlockScad](https://d2.alternativeto.net/dist/s/blockscad_212565_full.png?format=jpg&width=1200&height=1200&mode=crop&upscale=false)
-
-O programar robots, como
-
-[Bitbloq](http://bitbloq.bq.com)
-
-![Bitbloq](http://www.untipodigital.com/wp-content/uploads/2016/04/Bitbloq-V2_03.jpg)
-
-o
-
-[Ardublock](http://blog.ardublock.com)
-
-![Ardublock](http://blog.ardublock.com/wp-content/uploads/2014/07/untitled6.jpg)
-
-
-Para terminar hablaremos también de los nuevos kit de electrónica imprimibles:  bloques modulares al estilo de la programación y que podemos imprimir y montar nosotros mismos
-
-![kit electronica](./images/KitElectrónica.jpg)
-
-Completaremos la ponencia citando algunas expeciencias interesantes de uso de la tecnología en el aula como las de [Diego García](https://unblogfantasticoenguevejar.blogspot.com.es/) y [Eusebio Córdoba](http://tercero.ceipsansebastian.net/)
-
-(Durante la ponencia una impresora 3D está imprimiendo alguna pieza. Dado que es mucho el tiempo que se tarda en imprimir, llevaré todo lo necesario impreso, pero se estará imprimiendo algún componente del kit de electrónica que se use y que termine rápido)
-
-
-## Parte práctica (90 minutos)
-
-Tendremos 2 actividades: robótica e Impresión 3D
-
-Escogeremos a algún asistente para que haga el montaje
-
-### Robótica (50 minutos)
-
-Utilizaremos un robot con piezas impresas que llevaremos desmontado.
-
-![robot](./images/Minirobot.jpg)
-
-1. Montamos el robot
-
-1. Añadimos la electrónica
-
-1. Programamos un comportamiento sencillo con Bitlboq
-
-### Impresión 3D en el aula (30 minutos)
-
-Montaremos unos poliedros con los vértices impresos y varillas
-
-Llevaremos más piezas impresas para mostrar las posibilidades
-
-![Tetraedro](./images/Tetraedro.jpg)
-
-![Icosaedro](./images/Icosaedro.jpg)
+[Juguetes](https://github.com/javacasm/Tecnologia-Educativa/blob/master/juguetes.md)
