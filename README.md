@@ -13,7 +13,7 @@
 
 * * *
 
-## ¿Por qué hacer cosas?
+## ¿Por qué "hacer" cosas en el aula?
 
 ### Recordamos
 * el 10% de lo que leemos,
