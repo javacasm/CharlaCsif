@@ -9,7 +9,7 @@
 
 ### José Antonio Vacas @javacasm
 
-![CC](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
+![CC](https://raw.githubusercontent.com/javacasm/ArduinoAvanzadoDE2017/master/images/Licencia_CC_peque.png)
 
 * * *
 
@@ -95,19 +95,49 @@ Ejemplos de arquitectura
 
 [Notre Dame](https://twitter.com/manureinosa/status/840472298331222016)
 
+[Historia](https://twitter.com/manureinosa/status/841369373260537857)
+
 [Hogwarts](http://www.thingiverse.com/thing:1369458/apps)
 
 ![hogwarts](http://thingiverse-production-new.s3.amazonaws.com/renders/07/b3/fe/9b/f6/bebea283710a363a7080d849d7d9f468_preview_featured.JPG)
+
+
+* * *
+Ejemplo práctico:
+
+[Figuras geométrica](http://www.thingiverse.com/javacasm/collections/figuras-geometricas)
+
+
 * * *
 
-O programar robots, como
+Robótica
+
+Las cosas que se mueven atraen más
+
+Todo lo relacionado con la robótica engancha,  eso es indudable
+
+Con la excusa de la robótica como gancho podemos enseñar y aprender todo tipo de contenidos.
+
+* * *
+
+Podemos usarla para aprender a [...](./desarrollo.md)
+
+![robot](https://pbs.twimg.com/media/C7oWc2lW4AA_-p6.jpg)
+
+* * *
+Podemos programar usando herramientas muy sencillas:
 
 [Bitbloq](http://bitbloq.bq.com)
 
 ![Bitbloq](http://www.untipodigital.com/wp-content/uploads/2016/04/Bitbloq-V2_03.jpg)
-
-o
-
+* * *
 [Ardublock](http://blog.ardublock.com)
 
 ![Ardublock](http://blog.ardublock.com/wp-content/uploads/2014/07/untitled6.jpg)
+* * *
+
+Ejemplo [bichobot](./bichobot.md)
+
+Ejemplo [escornabot](./escornabot.md)
+* * *
+“Lo que oigo, lo olvido; lo que veo, lo recuerdo; lo que hago, lo aprendo”
